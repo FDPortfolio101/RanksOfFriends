@@ -1,0 +1,73 @@
+body {
+
+    background: url(../img/back.jpg) no-repeat center center fixed;
+
+    -webkit-background-size: cover;
+
+    -moz-background-size: cover;
+
+    -o-background-size: cover;
+
+    background-size: cover;
+
+}
+
+
+
+nav{
+
+    background-color: #3c53cd;
+
+}
+
+
+
+thead{
+
+    background-color: #28cd1e;
+
+}
+
+
+
+.btn{
+
+    background-color: #cd262b;
+
+}
+
+
+
+.hairdark{
+
+    background-color: #722687;
+
+}
+
+
+
+.btn:hover{
+
+    background-color: #20cdc9;
+
+}
+
+.color{
+
+    color:white;
+
+}
+
+.H1{
+
+    color:white;
+
+}
+.h2{
+    color:white;
+}
+.container {
+
+    align-items:  center;
+
+}
